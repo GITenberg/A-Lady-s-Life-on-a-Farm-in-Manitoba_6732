@@ -1,0 +1,22 @@
+_repo: A-Lady-s-Life-on-a-Farm-in-Manitoba_6732
+creator:
+  author:
+    agent_name: Hall, M. G. C. (Mary Georgina Caroline)
+    alias: Hall, Cecil, Mrs.
+    gutenberg_agent_id: '2178'
+    url: http://www.gutenberg.org/2009/agents/2178
+description: ''
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6732'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Manitoba -- Description and travel'
+- !lcc 'F1001'
+- !lcsh 'Frontier and pioneer life -- Manitoba'
+title: A Lady's Life on a Farm in Manitoba
+url: http://www.gutenberg.org/ebooks/6732
