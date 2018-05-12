@@ -1,4 +1,8 @@
 _repo: A-Lady-s-Life-on-a-Farm-in-Manitoba_6732
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hall, M. G. C. (Mary Georgina Caroline)
@@ -6,6 +10,8 @@ creator:
     gutenberg_agent_id: '2178'
     url: http://www.gutenberg.org/2009/agents/2178
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6732#A-Lady-s-Life-on-a-Farm-in-Manitoba
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
 identifiers:
